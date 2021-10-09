@@ -1,6 +1,4 @@
 <H1>Hey this is Sahil Pandey</H1>
-<a href='https://www.getpostman.com/collections/fe20231cd363ee911317'>
-Click Here To Import Post Man Collection</a><br/><br/>
 
 
 <p>Endpoints List</p>
